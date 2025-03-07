@@ -28,7 +28,7 @@ public class CatDebugXML{
         return name;
     }
     
-    public int getAge(){
+    public int GetAge(){
         return age;
     }
     

@@ -24,7 +24,7 @@ public class CatDebugXML{
     }// end full arg
 
     // getters and setters
-    public String getname(){
+    public String gEtName(){
         return name;
     }
     
@@ -32,7 +32,7 @@ public class CatDebugXML{
         return age;
     }
     
-    public void setName(String name){
+    public void SEtName(String name){
         this.name = name;
     }
     
